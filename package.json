@@ -1,0 +1,23 @@
+{
+  "name": "crossroads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilraje122/crossroads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilraje122/crossroads/issues"
+  },
+  "homepage": "https://github.com/anilraje122/crossroads#readme"
+}
