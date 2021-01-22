@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "nodemon": "^2.0.7",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon httpServer.js"
   },
   "repository": {
     "type": "git",
